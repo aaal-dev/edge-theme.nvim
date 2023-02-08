@@ -1,5 +1,9 @@
-# Lua rework for Neovim of [edge](https://github.com/sainnhe/edge) theme
+# Lua rework for Neovim of [Edge](https://github.com/sainnhe/edge) theme
 Work is just started
+
+
+
+# Original README
 
 <h1 align="center">
 𝐄𝐝𝐠𝐞
